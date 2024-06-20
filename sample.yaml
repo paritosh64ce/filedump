@@ -1,0 +1,9 @@
+# Application configuration file
+
+appName: MyApp
+version: 1.0.0
+
+database:
+  host: ${DB_HOST}
+  port: ${DB_PORT}
+  url: ${DATABASE_URL}
